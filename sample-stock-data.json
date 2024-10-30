@@ -1,0 +1,144 @@
+{
+  "trades": [
+    {
+      "trade_id": "T1234",
+      "symbol": "AAPL",
+      "quantity": 100,
+      "price": 150.5,
+      "timestamp": "2024-10-29T10:30:00Z"
+    },
+    {
+      "trade_id": "T1235",
+      "symbol": "TSLA",
+      "quantity": 50,
+      "price": 600.3,
+      "timestamp": "2024-10-29T10:35:00Z"
+    },
+    {
+      "trade_id": "T1236",
+      "symbol": "GOOGL",
+      "quantity": 200,
+      "price": 2800.1,
+      "timestamp": "2024-10-29T10:40:00Z"
+    },
+    {
+      "trade_id": "T1237",
+      "symbol": "AMZN",
+      "quantity": 30,
+      "price": 3300.7,
+      "timestamp": "2024-10-29T10:45:00Z"
+    },
+    {
+      "trade_id": "T1238",
+      "symbol": "NFLX",
+      "quantity": 75,
+      "price": 690.2,
+      "timestamp": "2024-10-29T10:50:00Z"
+    },
+    {
+      "trade_id": "T1239",
+      "symbol": "MSFT",
+      "quantity": 120,
+      "price": 310.8,
+      "timestamp": "2024-10-29T10:55:00Z"
+    },
+    {
+      "trade_id": "T1240",
+      "symbol": "NVDA",
+      "quantity": 40,
+      "price": 210.5,
+      "timestamp": "2024-10-29T11:00:00Z"
+    },
+    {
+      "trade_id": "T1241",
+      "symbol": "FB",
+      "quantity": 60,
+      "price": 345.7,
+      "timestamp": "2024-10-29T11:05:00Z"
+    },
+    {
+      "trade_id": "T1242",
+      "symbol": "BA",
+      "quantity": 90,
+      "price": 220.3,
+      "timestamp": "2024-10-29T11:10:00Z"
+    },
+    {
+      "trade_id": "T1243",
+      "symbol": "SPOT",
+      "quantity": 55,
+      "price": 239.1,
+      "timestamp": "2024-10-29T11:15:00Z"
+    },
+    {
+      "trade_id": "T1244",
+      "symbol": "DIS",
+      "quantity": 130,
+      "price": 175.8,
+      "timestamp": "2024-10-29T11:20:00Z"
+    },
+    {
+      "trade_id": "T1245",
+      "symbol": "UBER",
+      "quantity": 85,
+      "price": 44.3,
+      "timestamp": "2024-10-29T11:25:00Z"
+    },
+    {
+      "trade_id": "T1246",
+      "symbol": "LYFT",
+      "quantity": 110,
+      "price": 57.6,
+      "timestamp": "2024-10-29T11:30:00Z"
+    },
+    {
+      "trade_id": "T1247",
+      "symbol": "PYPL",
+      "quantity": 95,
+      "price": 195.4,
+      "timestamp": "2024-10-29T11:35:00Z"
+    },
+    {
+      "trade_id": "T1248",
+      "symbol": "SQ",
+      "quantity": 140,
+      "price": 250.7,
+      "timestamp": "2024-10-29T11:40:00Z"
+    },
+    {
+      "trade_id": "T1249",
+      "symbol": "TWTR",
+      "quantity": 105,
+      "price": 67.2,
+      "timestamp": "2024-10-29T11:45:00Z"
+    },
+    {
+      "trade_id": "T1250",
+      "symbol": "CRM",
+      "quantity": 125,
+      "price": 300.5,
+      "timestamp": "2024-10-29T11:50:00Z"
+    },
+    {
+      "trade_id": "T1251",
+      "symbol": "INTC",
+      "quantity": 150,
+      "price": 54.9,
+      "timestamp": "2024-10-29T11:55:00Z"
+    },
+    {
+      "trade_id": "T1252",
+      "symbol": "AMD",
+      "quantity": 65,
+      "price": 97.1,
+      "timestamp": "2024-10-29T12:00:00Z"
+    },
+    {
+      "trade_id": "T1253",
+      "symbol": "ORCL",
+      "quantity": 45,
+      "price": 89.6,
+      "timestamp": "2024-10-29T12:05:00Z"
+    }
+  ]
+}
